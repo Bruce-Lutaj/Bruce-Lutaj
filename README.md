@@ -38,15 +38,6 @@
         <li>Systems-level understanding from C / C++ experience</li>
       </ul>
     </div>
-
-    <div>
-      <h3 style="margin:0 0 6px 0;font-size:15px;">Work style</h3>
-      <ul style="margin:0;padding-left:18px;color:#444;">
-        <li>Product-focused: feature-driven & testable code</li>
-        <li>Agile & Scrum — collaborative sprints, code reviews</li>
-        <li>Comfortable with CI, Git workflows, and Jira boards</li>
-      </ul>
-    </div>
   </div>
 
   <p style="margin-top:16px;color:#333;font-size:14px;">
