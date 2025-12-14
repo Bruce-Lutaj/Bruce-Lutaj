@@ -5,7 +5,7 @@
       <h1 style="margin:0 0 6px 0;font-size:28px;">Hey — I build reliable apps & clean systems 🔧📱</h1>
       <p style="margin:0;color:#444;">
         I started at the metal (C & C++) to build a solid CS foundation and now ship native Apple apps.
-        Currently doing an internship focused on <strong>iOS native development</strong> — Swift, SwiftUI, Xcode and the entire Apple stack.
+        Currently working as a <strong>iOS native developer</strong> — Swift, SwiftUI, Xcode and the entire Apple stack.
         I pair strong <strong>DSA</strong> skills with real-world product experience in agile (Scrum) environments using Git & Jira.
       </p>
     </div>
